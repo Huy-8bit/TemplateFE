@@ -1,7 +1,6 @@
 @use '../../scss/' as *;
-.slider-home.home1 {
-    margin-right: -30px;
-}
+
+
 .tf-slider-item {
     @include flexitem;
     justify-content: space-between;
@@ -160,7 +159,7 @@
                 z-index: -1;
             }
         }
-        .img-slider-2,.img-slider-3 {
+        .img-slider-3 {
             position: absolute;
             top: 21%;
             right: 0%;
