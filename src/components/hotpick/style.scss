@@ -1,8 +1,7 @@
-
 @use '../../scss/' as *;
 .react-tabs__tab-list {
     @include flex(center,left);
-    margin-bottom: 39px;
+    margin-bottom: 50px;
     @include desktop-1200 {
         flex-wrap: wrap;
         li {
@@ -40,43 +39,5 @@
             }
         }
 }
-.dropdown .dropdown-toggle {
-    background-color: var(--primary-color6);
-    border-color: var(--primary-color36);
-    box-shadow: none;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    color: var(--primary-color5);
-    
-}
 
-.show > .btn-primary.dropdown-toggle{
-    background-color: var(--primary-color6);
-    border-color: var(--primary-color36);
-    box-shadow: none;
-    outline: none;
-    color: var(--primary-color5);
-}
 
-.dropdown-menu {
-    background-color: var(--primary-color6);
-    border-color: var(--primary-color36);
-    border-radius: 10px;
-    width: 100%;
-
-    .dropdown-item {
-        background: transparent;
-        padding: 0px 10px;
-    }
-}
-
-.sidebar-explore .dropdown .dropdown-toggle {
-    text-align: left;
-    width: 100%;
-    font-weight: 400;
-    font-size: 16px;
-    border-radius: 8px;
-    padding: 12px 16px;
-    border: 1px solid var(--primary-color47);
-}
