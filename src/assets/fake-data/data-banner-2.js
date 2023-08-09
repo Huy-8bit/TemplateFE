@@ -9,40 +9,40 @@ import img5 from '../images/slider/slider-product-5.jpg'
 const dataBanner2 = [
     {
         id: 1,
-        
-        heading: 'Defind, Collect and Sell Super Rate NFT ',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.',
+
+        heading: 'Splitting Me  ',
+        desc: 'Giải pháp bất động sản hoàn toàn mới , lần đầu tiên có mặt tại Việt Nam',
         img: img1,
     },
     {
         id: 2,
-        
-        heading: 'Defind, Collect and Sell Super Rate NFT ',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.',
+
+        heading: 'Splitting Me  ',
+        desc: 'Giải pháp bất động sản hoàn toàn mới , lần đầu tiên có mặt tại Việt Nam',
         img: img2,
     },
     {
         id: 3,
-        
-        heading: 'Defind, Collect and Sell Super Rate NFT ',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.',
+
+        heading: 'Splitting Me  ',
+        desc: 'Giải pháp bất động sản hoàn toàn mới , lần đầu tiên có mặt tại Việt Nam',
         img: img3,
     },
     {
         id: 4,
-        
-        heading: 'Defind, Collect and Sell Super Rate NFT ',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.',
+
+        heading: 'Splitting Me  ',
+        desc: 'Giải pháp bất động sản hoàn toàn mới , lần đầu tiên có mặt tại Việt Nam',
         img: img4,
     },
     {
         id: 5,
-        
-        heading: 'Defind, Collect and Sell Super Rate NFT ',
-        desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.',
+
+        heading: 'Splitting Me  ',
+        desc: 'Giải pháp bất động sản hoàn toàn mới , lần đầu tiên có mặt tại Việt Nam',
         img: img5,
     },
-    
+
 
 ]
 
